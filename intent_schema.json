@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "RecipeSearchString",
+          "type": "SEARCH"
+        }
+      ],
+      "intent": "SearchForRecipe"
+    },
+    {
+      "slots": [
+        {
+          "name": "RecipeNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "PickRecipeNumber"
+    },
+    {
+      "intent": "NextStep"
+    },
+    {
+      "intent": "PreviousStep"
+    },
+    {
+      "intent": "RepeatStep"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+SearchForRecipe search for {RecipeSearchString}
+SearchForRecipe search for {RecipeSearchString} recipe
+SearchForRecipe search for {RecipeSearchString} recipes
+SearchForRecipe to search for {RecipeSearchString}
+SearchForRecipe to search for {RecipeSearchString} recipe
+SearchForRecipe to search for {RecipeSearchString} recipes
+SearchForRecipe cook {RecipeSearchString}
+SearchForRecipe a recipe for {RecipeSearchString}
+SearchForRecipe recipes for {RecipeSearchString}
+SearchForRecipe find a recipe for {RecipeSearchString}
+SearchForRecipe find me a recipe for {RecipeSearchString}
+SearchForRecipe for a {RecipeSearchString} recipe
+SearchForRecipe for {RecipeSearchString} recipes
+PickRecipeNumber recipe {RecipeNumber}
+PickRecipeNumber recipe number {RecipeNumber}
+PickRecipeNumber select recipe {RecipeNumber}
+PickRecipeNumber select recipe number {RecipeNumber}
+PickRecipeNumber choose recipe {RecipeNumber}
+PickRecipeNumber choose recipe number {RecipeNumber}
+PickRecipeNumber result {RecipeNumber}
+PickRecipeNumber result number {RecipeNumber}
+PickRecipeNumber item {RecipeNumber}
+PickRecipeNumber item number {RecipeNumber}
+NextStep next step
+NextStep for the next step
+NextStep move on
+NextStep next
+NextStep forward
+NextStep go forward
+NextStep go to the next step
+NextStep what's the next step
+PreviousStep previous step
+PreviousStep for the previous step
+PreviousStep previous
+PreviousStep last step
+PreviousStep for the last step
+PreviousStep go back
+PreviousStep back
+PreviousStep go to the previous step
+PreviousStep go to the last step
+RepeatStep repeat the step
+RepeatStep to repeat the step
+RepeatStep repeat the last step
+RepeatStep to repeat the last step
+RepeatStep repeat the current step
+RepeatStep repeat step
+RepeatStep repeat
+RepeatStep what was that
+RepeatStep can you repeat that
